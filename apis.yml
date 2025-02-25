@@ -21,12 +21,12 @@ tags:
   - IT Consulting
   - Travel
   - Hospitality
-type: Index
+type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2025-02-24'
 modified: '2025-02-24'
-position: Consumer
+position: Consuming
 description: >-
   AltexSoft is a technology and solution consulting company that provides
   software development and IT consulting services to businesses across various
