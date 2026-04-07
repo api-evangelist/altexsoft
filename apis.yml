@@ -4,8 +4,7 @@ url: >-
 apis:
   - aid: altexsoft:altexsoft
     name: AltexSoft
-    tags:
-      - API
+    tags: []
     humanURL: ' https://www.altexsoft.com/'
     properties:
       - url: ' https://www.altexsoft.com/'
@@ -17,10 +16,10 @@ apis:
       and airlines stay ahead of competition.
 name: AltexSoft
 tags:
-  - Software Development
-  - IT Consulting
-  - Travel
   - Hospitality
+  - IT Consulting
+  - Software Development
+  - Travel
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
