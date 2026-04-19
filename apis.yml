@@ -1,39 +1,78 @@
 aid: altexsoft
 url: >-
   https://raw.githubusercontent.com/api-evangelist/altexsoft/refs/heads/main/apis.yml
-apis:
-  - aid: altexsoft:altexsoft
-    name: AltexSoft
-    tags: []
-    humanURL: ' https://www.altexsoft.com/'
-    properties:
-      - url: ' https://www.altexsoft.com/'
-        type: Documentation
-    description: >-
-      AltexSoft has worked in the travel and transportation industry since 2007 contributing
-      to its evolution by leveraging engineering and data science excellence to help
-      online travel agencies, transportation management providers, hospitality providers,
-      and airlines stay ahead of competition.
 name: AltexSoft
 tags:
   - Hospitality
   - IT Consulting
   - Software Development
   - Travel
-type: Contract
+  - Technology Solutions
+type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-access: 3rd-Party
-created: '2025-02-24'
-modified: '2026-03-16'
-position: Consuming
 description: >-
   AltexSoft is a technology and solution consulting company that provides software
   development and IT consulting services to businesses across various industries.
   Specializing in travel and hospitality, healthcare, and finance sectors, AltexSoft
   helps companies design, build, and implement innovative technology solutions to
-  improve operational efficiency, enhance customer experience, and drive business
-  growth.
+  improve operational efficiency, enhance customer experience, and drive business growth.
+created: '2025-02-24'
+modified: '2026-04-19'
+specificationVersion: '0.19'
+apis: []
+common:
+  - url: https://www.altexsoft.com/
+    type: Website
+  - url: https://www.altexsoft.com/blog/
+    type: Blog
+  - url: https://www.altexsoft.com/contact-us/
+    type: Support
+  - type: Features
+    data:
+      - name: Travel Technology Consulting
+        description: >-
+          Specialized software development and consulting for online travel agencies,
+          airlines, hospitality providers, and transportation management companies.
+      - name: API Integration Development
+        description: >-
+          Custom API integration development connecting GDS systems (Amadeus, Sabre,
+          Travelport), OTA platforms, and travel data providers for clients.
+      - name: Data Science Solutions
+        description: >-
+          Machine learning and data science services for demand forecasting,
+          price optimization, recommendation systems, and predictive analytics.
+      - name: Software Product Development
+        description: >-
+          End-to-end software product design, development, and maintenance for
+          technology companies in travel, healthcare, and finance sectors.
+  - type: UseCases
+    data:
+      - name: Travel Platform Development
+        description: >-
+          Build online booking platforms, metasearch engines, and travel management
+          systems leveraging GDS and OTA API integrations.
+      - name: Healthcare Technology
+        description: >-
+          Develop healthcare applications with EHR integration, telemedicine
+          platforms, and medical data analytics solutions.
+      - name: Financial Technology
+        description: >-
+          Create fintech applications with payment processing, banking API
+          integrations, and financial data analytics systems.
+  - type: Integrations
+    data:
+      - name: Amadeus
+        description: >-
+          GDS integration for flight search, booking, and airline inventory
+          management using Amadeus APIs.
+      - name: Sabre
+        description: >-
+          GDS integration for travel content, booking flows, and agent
+          desktop systems using Sabre APIs.
+      - name: Travelport
+        description: >-
+          GDS integration for multi-source content aggregation and booking
+          using Travelport Universal API.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
-specificationVersion: '0.19'
