@@ -1,0 +1,11 @@
+generated: '2026-06-20'
+method: searched
+source: >-
+  npm registry search, PyPI, NuGet
+packages: []
+notes: >-
+  AltexSoft is a software engineering and technology consulting firm, not
+  an API product vendor. No first-party client libraries or SDKs were found
+  on npm, PyPI, Maven Central, NuGet, pkg.go.dev, RubyGems, Packagist, or
+  crates.io, and apis.yml carries no SDK/CLI/SourceCode links to derive
+  candidates from. Empty is the expected, honest result.

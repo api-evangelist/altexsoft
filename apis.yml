@@ -17,7 +17,7 @@ description: >-
   helps companies design, build, and implement innovative technology solutions to
   improve operational efficiency, enhance customer experience, and drive business growth.
 created: '2025-02-24'
-modified: '2026-04-19'
+modified: '2026-06-20'
 specificationVersion: '0.19'
 apis: []
 common:
@@ -27,6 +27,12 @@ common:
     type: Blog
   - url: https://www.altexsoft.com/contact-us/
     type: Support
+  - url: llms/altexsoft-llms.txt
+    type: LLMsTxt
+  - url: well-known/altexsoft-well-known.yml
+    type: WellKnown
+  - url: packages/altexsoft-packages.yml
+    type: Packages
   - type: Features
     data:
       - name: Travel Technology Consulting

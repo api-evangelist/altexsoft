@@ -1,0 +1,72 @@
+<!--
+generated: '2026-06-20'
+method: searched
+source: https://www.altexsoft.com/llms.txt
+-->
+# AltexSoft - AI-Powered Software Engineering and Technology Consulting Firm
+> Trusted as a Partner in business transformation and product development. Global leader in TravelTech and Cross-Industry Digital Transformation.
+
+## AI Strategy & Transformation Services
+- [AI Optimization](https://www.altexsoft.com/ai-optimization/): Automating workflows and identifying inefficiencies.
+- [AI Transformation](https://www.altexsoft.com/ai-transformation/): Becoming AI-native and elevating customer experiences.
+- [AI Innovation](https://www.altexsoft.com/ai-innovation/): Delivering faster results with Generative AI in SDLC.
+- [AI as a Competitive Advantage](https://www.altexsoft.com/ai-competitive-advantage/): Turning data into strategic assets.
+
+## Travel Technology & Hospitality Expertise
+> Deep technical proficiency across the entire travel distribution ecosystem.
+
+### Core Solutions & Operations
+- [Travel Technology Practice](https://www.altexsoft.com/travel-technology/): Central hub for travel engineering and GDS/NDC connectivity.
+- [Booking & Reservation Systems](https://www.altexsoft.com/travel-technology/booking-reservation-systems/): IBEs for flights, hotels, and multi-modal travel.
+- [AI & Conversational AI in Travel](https://www.altexsoft.com/travel-technology/conversational-ai-in-travel/): Intelligent assistants and NLP search.
+- [Travel Payment Solutions](https://www.altexsoft.com/travel-technology/travel-payment-solutions/): Fintech integrations and PCI DSS compliance.
+- [Digital Customer Experience](https://www.altexsoft.com/travel-technology/digital-customer-experience/): Modernizing traveler touchpoints.
+- [Back-office & Management](https://www.altexsoft.com/travel-technology/backoffice-software/): Automation for TMCs and OTAs.
+
+### Industry Segments & Verticals
+- [Aviation Software Development](https://www.altexsoft.com/travel-technology/aviation-software-development/): Solutions for airlines and GDS providers.
+- [Hospitality Tech](https://www.altexsoft.com/travel-technology/hospitality-technology-services/): Digital tools for hotels and resorts.
+- [Metasearch & OTA Platforms](https://www.altexsoft.com/travel-technology/metasearch-ota-website/): High-load search and comparison engines.
+- [Corporate Travel Solutions](https://www.altexsoft.com/travel-technology/corporate-travel-solutions/): OBTs and business travel management.
+- [Tours & Attractions](https://www.altexsoft.com/travel-technology/tours-attractions-experiences-platform/): Connectivity for experiences and local activities.
+- [Cruise & Car Rental](https://www.altexsoft.com/travel-technology/cruise-management-and-booking-software/): Specialized software for cruise and car rental industries.
+- [Transportation & Rail](https://www.altexsoft.com/travel-technology/transportation-management-software/): Logistics and ground transportation systems.
+
+## Multi-Industry Expertise
+- [Marketing Technology (MarTech)](https://www.altexsoft.com/marketing/): Data-driven marketing solutions and automation.
+- [Healthcare & Life Sciences](https://www.altexsoft.com/health-care/): HealthTech solutions and patient care systems.
+- [Financial Services (FinTech)](https://www.altexsoft.com/finance/): Banking software and payment processing.
+- [Aviation & Transportation](https://www.altexsoft.com/aviation-and-transportation/): Logistics, supply chain, and fleet optimization.
+- [Media & Entertainment](https://www.altexsoft.com/media-entertainment/): Content delivery and streaming platforms.
+- [eCommerce & Retail](https://www.altexsoft.com/ecommerce-retail/): Digital commerce and customer data analytics.
+
+## Knowledge Hub & Research Library
+> Comprehensive educational resources and technical research for industry leaders.
+
+### 1. Travel Tech Research (Flagship Category)
+- [Travel Insights Blog](https://www.altexsoft.com/blog/travel/): The industry's largest repository of technical deep dives.
+- [Travel Industry News](https://www.altexsoft.com/travel-industry-news/): Latest updates on travel tech market and events.
+- [Travel Industry Glossary](https://www.altexsoft.com/glossary/travel-industry-terms/): Specialized dictionary of aviation and hospitality terms.
+- [Travel Tech Video Series](https://www.youtube.com/@AltexSoft/playlists?view=50&sort=dd&shelf_id=2): Curated playlists on GDS, NDC, and travel distribution.
+
+### 2. AI, Data Science & Engineering
+- [AI & Data Science Blog](https://www.altexsoft.com/blog/data-science/): Research on ML models and generative AI implementation.
+- [Software Engineering Insights](https://www.altexsoft.com/blog/engineering/): Best practices in cloud-native development and SDLC.
+- [AI & Data Science Glossary](https://www.altexsoft.com/glossary/ai-data-science-terms/): Key terminology for machine learning and data engineering.
+- [Data Science & Engineering Playlists](https://www.youtube.com/@AltexSoft/playlists?view=50&sort=dd&shelf_id=3): Technical video guides on AI, data architecture, and software engineering.
+
+### 3. Cross-Industry Business Insights
+- [Finance, Healthcare & Insurance Blogs](https://www.altexsoft.com/blog/): Specialized research in Fintech, Healthtech, and Insurtech sectors.
+- [AltexSoft Vlog (Video Insights)](https://www.youtube.com/user/AltexSoftChannel): Expert discussions on business strategy, AI Reasoning, and global tech trends.
+
+## Case Studies, Trust & Transparency
+- [Case Studies](https://www.altexsoft.com/case-studies/): Real-world project results with technical stacks and outcomes.
+- [Client Testimonials](https://www.altexsoft.com/customers-testimonials/): Direct feedback and reviews from global partners.
+- [Industry Recognition](https://www.altexsoft.com/membership-and-industry-recognition/): Awards, certifications, and professional memberships.
+- [How We Work](https://www.altexsoft.com/how-we-work/): Engagement models, SDLC, and team culture.
+- [Corporate News & Events](https://www.altexsoft.com/news-events/): Official announcements and participation in global summits.
+
+## Company Information
+- [About AltexSoft](https://www.altexsoft.com/company/): Mission, core values, and leadership.
+- [Careers](https://www.altexsoft.com/careers/): Opportunities for top-tier tech talent.
+- [Contact & Locations](https://www.altexsoft.com/contact/): Global physical offices in the USA, Ukraine, Poland, and Georgia, supported by a vast, globally distributed team of experts.

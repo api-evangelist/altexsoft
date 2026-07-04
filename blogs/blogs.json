@@ -1,0 +1,13 @@
+{
+  "repo": "altexsoft",
+  "feeds": [
+    {
+      "source": "https://www.altexsoft.com/blog/",
+      "feed_url": "https://www.altexsoft.com/feed/",
+      "title": "AltexSoft Blog",
+      "saved": 25
+    }
+  ],
+  "fetched": "2026-07-04T13:38:06Z",
+  "post_count": 25
+}
