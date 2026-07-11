@@ -21,6 +21,8 @@ modified: '2026-06-20'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/altexsoft-domain-security.yml
   - url: https://www.altexsoft.com/
     type: Website
   - url: https://www.altexsoft.com/blog/
