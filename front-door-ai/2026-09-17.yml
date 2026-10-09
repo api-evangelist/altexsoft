@@ -1,0 +1,32 @@
+# Front Door AI Index — altexsoft — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: altexsoft
+  lexicon_version: '1.0'
+  probed_at: '2026-09-25'
+  host: www.altexsoft.com
+  final_host: www.altexsoft.com
+  ownership: own
+  owner: altexsoft
+  shares_host_with: null
+  inherited_from: null
+  alias_of: null
+  verdict: scored
+  score: 54
+  band: 6
+  band_label: dominant
+  host_score: 54
+  density: 34.5
+  words: 1565
+  tiers:
+    agentic: 7
+    core: 46
+    model: 1
+  ambiguous: 2
+  top_terms:
+    AI: 46
+    agentic: 5
+    AI agent: 2
+    agent: 2
+    ChatGPT: 1
